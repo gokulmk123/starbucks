@@ -1,0 +1,339 @@
+.main{
+    width: 100%;
+    height: 500px;
+    background: #fff;
+    box-sizing: border-box;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+.upper{
+    display: flex;
+    width: 100%;
+    height: 80px;
+    background: #fff;
+}
+.logo{
+cursor: pointer;
+width: 50px;
+height: 50px;
+margin-left: 40px;
+margin-top: 20px;
+}
+.menu{
+    margin-left: 30px;
+    display: flex;
+    margin-top: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    -webkit-font-smoothing: antialiased;
+    font-feature-settings: "calt";
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+.p1{
+    cursor: pointer;  
+    padding-left: 10px;   
+}
+.p2{
+    cursor: pointer; 
+    padding-left: 30px;  
+}
+.p3{
+    cursor: pointer; 
+    padding-left: 30px;
+}
+.p1:hover{
+    color: #006242;    
+}
+.p2:hover{
+    color:#006242;
+}
+.p3:hover{
+    color: #006242;
+}
+.menu2{
+    display: flex;
+  margin-left: 440px;
+  margin-top: -5px;
+}
+.button1{
+    margin-top: 35px;
+    cursor: pointer;
+    margin-left: 40px;
+    height: 33px;
+    width:80px;
+    border-radius: 25px;
+    background: transparent;
+    border-width: 1px;
+    font-weight: 600;
+}
+.menu2 .map{
+    cursor: pointer;
+    padding-right: 10px;
+    margin-top:40px;
+    width: 20px;
+    height: 20px;
+}
+.loc{
+    cursor: pointer;
+    margin-top: 40px;
+    font-size: 14px;
+    font-weight:100;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+    color: rgb(46, 32, 32);
+}
+.button2{
+    margin-top: 35px;
+    cursor: pointer;
+    margin-left: 20px;
+    height: 33px;
+    width:90px;
+    border-radius: 25px;
+    background: #000;
+    border-width: 1px;
+    font-weight: bold;
+    color: #fff;
+}
+.map:hover{
+  color: #006242;
+}
+.loc:hover{
+color: #006242;
+}
+.button1:hover{
+    background: #e2e2e1;
+}
+.button2:hover{
+    background: #3a3939;
+}
+.second{
+    margin-top: 30px;
+    width: 100%;
+    display: flex;
+}
+    
+
+.left{
+    width: 50%;
+    height: 500px;
+    background: #fff;
+}
+.right{
+    width: 50%;
+    height: 500px;
+    background: #006242;
+    display: inline-block;
+
+}
+.smile{
+    width: 100%;
+    height: 100%;
+}
+.rthd{
+    margin-left: 10px;
+    color: #fff;
+    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    font-feature-settings: "calt";
+}  
+.r1{
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    font-weight:300;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   line-height: 35px
+}
+.right button{
+    background: #006242;
+    margin-left: 250px;
+    width: 120px;
+    height: 35px;
+    border-radius: 25px;
+   border:solid #fff;
+   border-width: 1px;
+   cursor: pointer; 
+   color: #fff; 
+   font-weight: bold;
+   font-size: 16px;
+   margin-top: 30px;
+}
+.right button:hover{
+    background: #025238;
+}
+.main hr{
+    border: 0;
+    height: 1px;
+    background-color: #ded6d6;
+box-shadow:1px 4px 6px rgba(0, 0, 0, 0.2);
+}
+.third{
+    margin-top: 30px;
+    display: flex;
+    width: 100%;
+    height: 500px;
+
+}
+.left2{
+    width: 50%;
+    height: 100%;
+    background: #f5f3f0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 27px;
+    text-align: center;
+    font-feature-settings: "calt";
+    color: #03412c;
+
+}
+.right2{
+    height: 100%;
+    width: 50%;
+}
+.coffee{
+    width: 100%;
+    height: 100%;
+}
+.left2 h1{
+  margin-top: 130px;
+  font-weight: 545;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.left2 p{
+    margin-top: -10px;
+    line-height: 40px;
+    color: #023323;
+}
+.underline{
+    color: #006242;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.fourth{
+    margin-top: 30px;
+    display: flex;
+    width: 100%;
+    height: 350px;
+
+}
+.left3{
+    width: 50%;
+    height: 100%;
+
+}
+.right3{
+    width: 50%;
+    height: 100%;
+    background: #32472f;
+}
+.juice{
+width: 100%;
+height: 100%;
+}
+.right3 h1{
+    color: #fff;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 27px;
+    text-align: center;
+    font-feature-settings: "calt";
+   margin-top: 50px;
+   font-weight: 700;
+   
+}
+.right3 p{
+   text-align: center;
+   color: #f9f9f5;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 20px;
+   line-height: 30px;
+}
+.right3 button{
+    cursor: pointer;
+    margin-left: 270px;
+    border-radius: 25px;
+    width: 90px;
+    height: 35px;
+    background: transparent;
+    border: solid #fff;
+    border-width: 1px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 15px;
+    
+}
+.seclast{
+    text-align: center;
+    font-size: 17px;
+    margin-top: 70px;
+    line-height: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.last{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.l{
+  width: 15%;
+  height: 400px;
+  padding-left:30px ;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.l h3{
+    font-weight: 400;
+    font-size: 17.9px;
+}
+.l p{
+    color: #686161;
+    line-height: 35px;
+    font-size: 15px;
+}
+.finish{
+    width: 100%;
+    height: 400px;
+
+}
+.icon img{
+    cursor: pointer;
+    width: 35px;
+    margin-left: 5px;
+}
+.icon{
+   
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.end{
+   
+    padding-left: 40px;
+    padding-top: 18px;
+    line-height: 30px;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.stop{
+    color: #686161;
+    font-size: 13px;
+    padding-bottom: 40px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.end  p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.l p:hover{
+    cursor: pointer;
+    color: #000;
+}
+
+
+
